@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: customCrudApi
+#datasources:
+#  default:
+#    url: jdbc:sqlserver://localhost:1433;databaseName=mydb
+#    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+#    username: Anemoi
+#    password: Anemoi@123
