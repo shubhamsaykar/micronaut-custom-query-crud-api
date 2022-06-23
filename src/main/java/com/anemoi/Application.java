@@ -8,6 +8,7 @@ public class Application {
         Micronaut.run(Application.class, args);
 		System.out.println("connection istablish");
 		System.out.println("hi i am shubham");
+	    System.out.println("hi i am shiv");
 
     }
 }
